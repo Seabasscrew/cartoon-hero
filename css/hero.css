@@ -1,0 +1,82 @@
+body{
+	margin: 0;
+	font-size: 20px;
+	line-height: 30px;
+
+}
+
+header{
+	background-color: saddlebrown;
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	font-size: 30px;
+
+}
+
+h1, h2{
+	font-family: Edwardian Script ITC
+}
+
+header h1{
+	color: gold;
+	font-family: Edwardian Script ITC; 
+}
+
+header img{
+	border-radius: 150px;
+    width: 200px;
+    border: 10px solid goldenrod;
+}
+
+main{
+	max-width: 600px;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+main img{
+	max-width: 100%
+
+}
+
+h2{
+	font-size: 38px;
+	color: gold;
+	margin: 40px 0 10px;
+
+}
+
+a{
+	color: gold;
+}
+a:hover{
+	color: blue;
+}
+
+footer{
+	background-color: saddlebrown;
+	text-align: center;
+	color: white;
+	padding: 30px;
+}
+
+footer p{
+	margin: 0;
+}
+
+footer a{
+	color: white;
+
+}
+
+footer a:hover{
+	opacity: .5
+	background-color: transparent;
+}
+
+p.caption{
+	color: grey;
+	font-style: italic;
+	margin-top: 0;
+}
